@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|c:\\users\\natheem scott\\desktop\\st10109685-natheemscott-prog6221poe\\poe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|solutionrelative:recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\addrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|solutionrelative:addrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\addrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|solutionrelative:addrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\scale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BB1711-BE08-48F8-85C5-FBD584CF5927}|POE.csproj|solutionrelative:scale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\AddRecipe.xaml",
+              "RelativeDocumentMoniker": "AddRecipe.xaml",
+              "ToolTip": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\AddRecipe.xaml",
+              "RelativeToolTip": "AddRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T15:39:55.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRecipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\AddRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "AddRecipe.xaml.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\AddRecipe.xaml.cs",
+              "RelativeToolTip": "AddRecipe.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:39:50.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T15:39:15.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\Recipe.cs",
+              "RelativeToolTip": "Recipe.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:22:45.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAQwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:05:14.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scale.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\Scale.xaml.cs",
+              "RelativeDocumentMoniker": "Scale.xaml.cs",
+              "ToolTip": "C:\\Users\\Natheem Scott\\Desktop\\ST10109685-NatheemScott-PROG6221POE\\POE\\Scale.xaml.cs",
+              "RelativeToolTip": "Scale.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:22:30.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

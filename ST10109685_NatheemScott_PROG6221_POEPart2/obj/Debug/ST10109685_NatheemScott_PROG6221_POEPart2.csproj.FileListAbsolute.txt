@@ -1,7 +1,0 @@
-C:\Users\Natheem Scott\Desktop\ST10109685_NatheemScott_PROG6221_POEPart2\bin\Debug\ST10109685_NatheemScott_PROG6221_POEPart2.exe.config
-C:\Users\Natheem Scott\Desktop\ST10109685_NatheemScott_PROG6221_POEPart2\bin\Debug\ST10109685_NatheemScott_PROG6221_POEPart2.exe
-C:\Users\Natheem Scott\Desktop\ST10109685_NatheemScott_PROG6221_POEPart2\bin\Debug\ST10109685_NatheemScott_PROG6221_POEPart2.pdb
-C:\Users\Natheem Scott\Desktop\ST10109685_NatheemScott_PROG6221_POEPart2\obj\Debug\ST10109685_NatheemScott_PROG6221_POEPart2.csproj.AssemblyReference.cache
-C:\Users\Natheem Scott\Desktop\ST10109685_NatheemScott_PROG6221_POEPart2\obj\Debug\ST10109685_NatheemScott_PROG6221_POEPart2.csproj.CoreCompileInputs.cache
-C:\Users\Natheem Scott\Desktop\ST10109685_NatheemScott_PROG6221_POEPart2\obj\Debug\ST10109685_NatheemScott_PROG6221_POEPart2.exe
-C:\Users\Natheem Scott\Desktop\ST10109685_NatheemScott_PROG6221_POEPart2\obj\Debug\ST10109685_NatheemScott_PROG6221_POEPart2.pdb
